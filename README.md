@@ -11,8 +11,10 @@
 #### I. Clone the repo
 
 ```
-https://github.com/krasteki/terraform-resources.git
+$ git clone https://github.com/krasteki/terraform-resources.git 
+$ cd terraform-resources
 ```
+
 
 #### II. Authenticate to AWS
 
@@ -37,6 +39,9 @@ $ export AWS_SECRET_ACCESS_KEY=YOUR_SECRET_KEY
 
 ![image](https://user-images.githubusercontent.com/51786552/154457382-6d883b8a-ee9f-40a0-9ddf-89d214cdbd1d.png)
 
+#### V. Destroy the Infra:
+
+`$ terraform destroy`
 
 
 
