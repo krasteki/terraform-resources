@@ -1,5 +1,7 @@
 # This repository creates application hosted on publicity EC2 instance in AWS with security group which allow port 80 (default region - US West (Oregon) - us-west-2)
 
+This repo is based on [HashiCorp learning guide](https://learn.hashicorp.com/tutorials/terraform/resource?in=terraform/configuration-language)
+
 ### Prerequisites
 
 - Terraform (version used v1.1.5) - Check [here](https://learn.hashicorp.com/tutorials/terraform/install-cli) for install instructions.
